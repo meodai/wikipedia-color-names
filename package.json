@@ -1,0 +1,30 @@
+{
+  "name": "wikipedia-color-names",
+  "version": "1.0.0",
+  "description": "somewhat up to date list of wikipedia color names",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meodai/wikipedia-color-names.git"
+  },
+  "keywords": [
+    "color",
+    "words",
+    "colour",
+    "dictionary",
+    "data"
+  ],
+  "author": "David Aerne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meodai/wikipedia-color-names/issues"
+  },
+  "homepage": "https://github.com/meodai/wikipedia-color-names#readme",
+  "devDependencies": {
+    "puppeteer": "^13.0.1"
+  }
+}
