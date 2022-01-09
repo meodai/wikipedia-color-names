@@ -10,7 +10,6 @@ const svgTpl = fs.readFileSync(
 
 // generates an SVG image with the new color based on the diff ot the last commit to the current
 function diffSVG() {
-
   const svgTxtStr = colorList.reduce((str, c, i) => {
     return `${str}<text x="40" y="${20 + (i + 1) * 70}" fill="${c.hex}">${c.name.replace(/&/g, '&amp;')}</text>`;
   }, '');
@@ -20,7 +19,8 @@ function diffSVG() {
     svgTpl.replace(/{height}/g, colorList.length * 70 + 80)
     .replace(/{items}/g, svgTxtStr)
   );
-
 };
+
+console.log(`Generating SVG image with ${colorList.length} colors`);
 
 diffSVG();
