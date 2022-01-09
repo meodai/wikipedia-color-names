@@ -4,7 +4,7 @@
   "description": "somewhat up to date list of wikipedia color names",
   "main": "index.json",
   "scripts": {
-    "build": "node index.js",
+    "build": "node index.js && node scripts/createimage.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
