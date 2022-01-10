@@ -9,6 +9,6 @@
       }
     </style>
   </defs>
-  <rect fill="#212121" x="0" y="0" width="600" height="{height}"/>
+  <rect fill="#202124" x="0" y="0" width="600" height="{height}"/>
   {items}
 </svg>
