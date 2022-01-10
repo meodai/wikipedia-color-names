@@ -1,10 +1,10 @@
 {
   "name": "wikipedia-color-names",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "somewhat up to date list of wikipedia color names",
   "main": "index.json",
   "scripts": {
-    "build": "node index.js && node scripts/createimage.js",
+    "build": "node scripts/fetch.js && node scripts/createimage.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/meodai/wikipedia-color-names#readme",
   "devDependencies": {
-    "puppeteer": "^13.0.1"
+    "puppeteer": "^13.0.1",
+    "title-case": "^3.0.3"
   }
 }

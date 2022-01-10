@@ -1,5 +1,7 @@
 const fs = require('fs');
 const puppeteer = require('puppeteer');
+const {titleCase} = require('title-case');
+
 
 const pages = [
   'https://en.wikipedia.org/wiki/List_of_colors:_A%E2%80%93F',
@@ -21,11 +23,11 @@ let colors = [];
       const colorRows = colorTable.querySelectorAll('tr');
       for (let i = 1; i < colorRows.length; i++) {
         const colorRow = colorRows[i];
-        const colorName = colorRow.querySelector('th a').innerText;
+        const colorName = colorRow.querySelector('th a').innerText ;
         const colorHex = colorRow.querySelector('td:nth-child(2)').innerText;
         colorList.push({
           name: colorName,
-          hex: colorHex.toLowerCase()
+          hex: colorHex,
         });
       }
       return colorList;
@@ -33,6 +35,7 @@ let colors = [];
     colors = colors.concat(colorList);
   }
 
+  // data sanitization
   colors.sort((a, b) => {
     if (a.name < b.name) {
       return -1;
@@ -41,8 +44,25 @@ let colors = [];
       return 1;
     }
     return 0;
+  }).forEach(c => {
+    c.name = titleCase(c.name);
+    // remove parentheses and its contents from name
+    c.name = c.name.replace(/\(.*\)/, '').trim();
+    c.hex = c.hex.toLowerCase();
   });
+
+  // remove duplicate names from colors list
+  colors = colors.filter((c, i) => {
+    const name = c.name;
+    const index = colors.findIndex(c => c.name === name);
+    if (index === i) {
+      return true;
+    }
+    return false;
+  });
+
   
+
   await browser.close();
   fs.writeFileSync('./colors.json', JSON.stringify(colors));
 })();
