@@ -10,7 +10,8 @@ from wikipedia and sanitizes it.
 - Removes duplicates color names
 - Title Cases the color names
 
-[colors.json](colors.json) contains an array of objects with a name, hex and link property.
+[colors.json](colors.json) contains an array of objects with a name, hex and link property 
+(link to the wikipedia article for this specific color). 
 
 ## Latest Color Names 🔖
 
