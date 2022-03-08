@@ -65,5 +65,7 @@ let colors = [];
   
 
   await browser.close();
-  fs.writeFileSync('./colors.json', JSON.stringify(colors));
+
+  fs.writeFileSync('./colors.min.json', JSON.stringify(colors));
+  fs.writeFileSync('./colors.json', JSON.stringify(colors, null, 2));
 })();
