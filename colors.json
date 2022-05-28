@@ -1,5 +1,9 @@
 [
   {
+    "name": "#D34600",
+    "hex": "#d34600"
+  },
+  {
     "name": "Absolute Zero",
     "hex": "#0048ba",
     "link": "https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Extreme_Twistables_colors"
@@ -42,7 +46,7 @@
   {
     "name": "Alizarin",
     "hex": "#db2d43",
-    "link": "https://en.wikipedia.org/wiki/Amaranth_(color)"
+    "link": "https://en.wikipedia.org/wiki/Amaranth_(color)#Alizarin"
   },
   {
     "name": "Alloy Orange",
@@ -507,7 +511,7 @@
   {
     "name": "Brunswick Green",
     "hex": "#1b4d3e",
-    "link": "https://en.wikipedia.org/wiki/Shades_of_green#Brunswick_green"
+    "link": "https://en.wikipedia.org/wiki/Spring_green#Brunswick_green"
   },
   {
     "name": "Bud Green",
@@ -1415,6 +1419,11 @@
     "link": "https://en.wikipedia.org/wiki/Fawn_(colour)"
   },
   {
+    "name": "Feijoa",
+    "hex": "#9fd170",
+    "link": "https://en.wikipedia.org/wiki/Shades_of_green#Feijoa"
+  },
+  {
     "name": "Feldgrau",
     "hex": "#4d5d53",
     "link": "https://en.wikipedia.org/wiki/Shades_of_green#Feldgrau"
@@ -1792,7 +1801,7 @@
   {
     "name": "Imperial Red",
     "hex": "#ed2939",
-    "link": "https://en.wikipedia.org/wiki/Shades_of_red#Imperial_Red"
+    "link": "https://en.wikipedia.org/wiki/Shades_of_red#Imperial_red"
   },
   {
     "name": "Inchworm",
@@ -2580,6 +2589,11 @@
     "link": "https://en.wikipedia.org/wiki/Beige#Mode_beige"
   },
   {
+    "name": "Mona Lisa",
+    "hex": "#ff948e",
+    "link": "https://en.wikipedia.org/wiki/Shades_of_pink#Mona_Lisa"
+  },
+  {
     "name": "Morning Blue",
     "hex": "#8da399",
     "link": "https://en.wikipedia.org/wiki/Shades_of_blue#Morning_blue"
@@ -2923,6 +2937,11 @@
     "name": "Patriarch",
     "hex": "#800080",
     "link": "https://en.wikipedia.org/wiki/Shades_of_purple#Purple_(HTML/CSS_color)_(patriarch)"
+  },
+  {
+    "name": "Paua",
+    "hex": "#1f005e",
+    "link": "https://en.wikipedia.org/wiki/Shades_of_purple#Paua"
   },
   {
     "name": "Payne's Grey",
@@ -3590,6 +3609,11 @@
     "link": "https://en.wikipedia.org/wiki/Seashell_(color)"
   },
   {
+    "name": "Secret",
+    "hex": "#764374",
+    "link": "https://en.wikipedia.org/wiki/Shades_of_purple#Secret"
+  },
+  {
     "name": "Selective Yellow",
     "hex": "#ffba00",
     "link": "https://en.wikipedia.org/wiki/Selective_yellow"
@@ -3957,7 +3981,7 @@
   {
     "name": "Thulian Pink",
     "hex": "#de6fa1",
-    "link": "https://en.wikipedia.org/wiki/Rose_(color)#Thulian_pink"
+    "link": "https://en.wikipedia.org/wiki/Shades_of_rose#Thulian_pink"
   },
   {
     "name": "Tickle Me Pink",
@@ -4302,7 +4326,7 @@
   {
     "name": "Winter Sky",
     "hex": "#ff007c",
-    "link": "https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Extreme_Twistables_colors"
+    "link": "https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Extreme_Twistables"
   },
   {
     "name": "Wintergreen Dream",
