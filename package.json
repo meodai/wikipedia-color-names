@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/meodai/wikipedia-color-names#readme",
   "devDependencies": {
-    "puppeteer": "^13.0.1",
+    "puppeteer": "^14.1.2",
     "title-case": "^3.0.3"
   }
 }
