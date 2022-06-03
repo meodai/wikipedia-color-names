@@ -7,7 +7,7 @@ from wikipedia and sanitizes it.
 
 - Lower-cases the hex color values
 - Removes parentheses 
-- Removes duplicates color names
+- Removes duplicate color names
 - Title Cases the color names
 
 [colors.json](colors.json) contains an array of objects with a name, hex and link property 
