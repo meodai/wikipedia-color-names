@@ -1695,6 +1695,11 @@
     "link": "https://en.wikipedia.org/wiki/Shades_of_green#Yellow-green"
   },
   {
+    "name": "Grenadier",
+    "hex": "#d34600",
+    "link": "https://en.wikipedia.org/wiki/Shades_of_red#Grenadier"
+  },
+  {
     "name": "Grullo",
     "hex": "#a99a86",
     "link": "https://en.wikipedia.org/wiki/Grullo"
@@ -3947,12 +3952,12 @@
   {
     "name": "Teal",
     "hex": "#008080",
-    "link": "https://en.wikipedia.org/wiki/Teal_(color)"
+    "link": "https://en.wikipedia.org/wiki/Teal"
   },
   {
     "name": "Teal Blue",
     "hex": "#367588",
-    "link": "https://en.wikipedia.org/wiki/Teal_(color)#Teal_blue"
+    "link": "https://en.wikipedia.org/wiki/Teal#Teal_blue"
   },
   {
     "name": "Telemagenta",
