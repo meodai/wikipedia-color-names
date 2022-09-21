@@ -1,7 +1,7 @@
 const fs = require('fs');
+const path = require('path');
 const puppeteer = require('puppeteer');
 const {titleCase} = require('title-case');
-
 
 const pages = [
   'https://en.wikipedia.org/wiki/List_of_colors:_A%E2%80%93F',
@@ -69,6 +69,24 @@ let colors = [];
 
   await browser.close();
 
+  // update color count in readme.md
+  // gets SVG template
+  let svgTpl = fs.readFileSync(
+    './readme.md',
+    'utf8'
+  ).toString();
+
+  svgTpl = svgTpl.replace(/\(\*{2}(\d+)\*{2}\)/gm, `(**${colors.length}**)`);
+
+  fs.writeFileSync(
+    './readme.md',
+    svgTpl
+  );
+
+  // create a csv file with the colors
+  const csv = 'name, hex, link\n' + colors.map(c => `${c.name},${c.hex},${c.link}`).join('\n');
+  
+  fs.writeFileSync('./colors.csv', csv);
   fs.writeFileSync('./colors.min.json', JSON.stringify(colors));
   fs.writeFileSync('./colors.json', JSON.stringify(colors, null, 2));
 })();
