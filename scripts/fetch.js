@@ -84,7 +84,7 @@ let colors = [];
   );
 
   // create a csv file with the colors
-  const csv = 'name, hex, link\n' + colors.map(c => `${c.name},${c.hex},${c.link}`).join('\n');
+  const csv = 'name,hex,link\n' + colors.map(c => `${c.name},${c.hex},${c.link}`).join('\n');
   
   fs.writeFileSync('./colors.csv', csv);
   fs.writeFileSync('./colors.min.json', JSON.stringify(colors));
