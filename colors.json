@@ -1005,6 +1005,11 @@
     "link": "https://en.wikipedia.org/wiki/Desert_sand_(color)#Sand_dune_(Drab)"
   },
   {
+    "name": "Drab Dark Brown",
+    "hex": "#4a412a",
+    "link": "https://en.wikipedia.org/wiki/Pantone_448_C"
+  },
+  {
     "name": "Duke Blue",
     "hex": "#00009c",
     "link": "https://en.wikipedia.org/wiki/Duke_blue"

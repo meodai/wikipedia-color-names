@@ -13,6 +13,6 @@ from wikipedia and sanitizes it.
 [colors.json](colors.json) contains an array of objects with a name, hex and link property 
 (link to the wikipedia article for this specific color). 
 
-## List of Color Names 🔖 (**809**)
+## List of Color Names 🔖 (**810**)
 
 ![Wikipedia Color Names](colors.svg "List of wikipedia colors")
