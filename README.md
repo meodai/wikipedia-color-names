@@ -13,11 +13,12 @@ from wikipedia and sanitizes it.
 [colors.json](colors.json) contains an array of objects with a name, hex and link property 
 (link to the wikipedia article for this specific color).
 
-## List of Color Names 🔖 (**810**)
-
-![Wikipedia Color Names](colors.svg "List of wikipedia colors")
 ## Sources 📚
 
 - [Wikipedia: List of Colors A-F](https://en.wikipedia.org/wiki/List_of_colors:_A%E2%80%93F)
 - [Wikipedia: List of Colors G-M](https://en.wikipedia.org/wiki/List_of_colors:_G%E2%80%93M)
 - [Wikipedia: List of Colors N-Z](https://en.wikipedia.org/wiki/List_of_colors:_N%E2%80%93Z)
+
+## List of Color Names 🔖 (**810**)
+
+![Wikipedia Color Names](colors.svg "List of wikipedia colors")
