@@ -37,6 +37,7 @@ Baby Pink,#f4c2c2,https://en.wikipedia.org/wiki/Shades_of_pink#Baby_pink
 Baby Powder,#fefefa,https://en.wikipedia.org/wiki/Shades_of_white#Baby_powder
 Baker-Miller Pink,#ff91af,https://en.wikipedia.org/wiki/Baker-Miller_pink
 Banana Mania,#fae7b5,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Standard_colors
+Barbie Pink,#da1884,https://en.wikipedia.org/wiki/Barbie_Pink
 Barn Red,#7c0a02,https://en.wikipedia.org/wiki/Shades_of_red#Barn_red
 Battleship Grey,#848482,https://en.wikipedia.org/wiki/Battleship_grey
 Beau Blue,#bcd4e6,https://en.wikipedia.org/wiki/Baby_blue#Beau_blue
@@ -70,10 +71,9 @@ Bole,#79443b,https://en.wikipedia.org/wiki/Bole_(color)
 Bone,#e3dac9,https://en.wikipedia.org/wiki/Shades_of_white#Bone
 Brick Red,#cb4154,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Standard_colors
 Bright Lilac,#d891ef,https://en.wikipedia.org/wiki/Lilac_(color)#Bright_lilac
-Bright Maroon,#c32148,https://en.wikipedia.org/wiki/Maroon#Bright_maroon
-Bright Navy Blue,#1974d2,https://en.wikipedia.org/wiki/Navy_blue#Bright_navy_blue
 Bright Yellow,#ffaa1d,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Heads_'n_Tails
 Bronze,#cd7f32,https://en.wikipedia.org/wiki/Bronze_(color)
+Brown,#88540b,https://en.wikipedia.org/wiki/Brown
 Brown Sugar,#af6e4d,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Heads_'n_Tails
 Bud Green,#7bb661,https://en.wikipedia.org/wiki/Spring_bud#Bud_green
 Buff,#ffc680,https://en.wikipedia.org/wiki/Buff_(colour)
@@ -97,7 +97,6 @@ Cameo Pink,#efbbcc,https://en.wikipedia.org/wiki/Shades_of_pink#Cameo_pink
 Canary,#ffff99,https://en.wikipedia.org/wiki/History_of_Crayola_crayons#Crayola_No._64
 Canary Yellow,#ffef00,https://en.wikipedia.org/wiki/Shades_of_yellow#Yellow_(CMYK)_(process_yellow)_(canary_yellow)
 Candy Pink,#e4717a,https://en.wikipedia.org/wiki/Candy_apple_red#Candy_pink
-Capri,#00bfff,https://en.wikipedia.org/wiki/Sky_blue#Deep_sky_blue
 Cardinal,#c41e3a,https://en.wikipedia.org/wiki/Cardinal_(color)
 Caribbean Green,#00cc99,https://en.wikipedia.org/wiki/Spring_green#Caribbean_green
 Carmine,#960018,https://en.wikipedia.org/wiki/Carmine_(color)
@@ -153,11 +152,12 @@ Cotton Candy,#ffbcd9,https://en.wikipedia.org/wiki/Shades_of_pink#Cotton_candy
 Coyote Brown,#81613c,https://en.wikipedia.org/wiki/Coyote_brown
 Cream,#fffdd0,https://en.wikipedia.org/wiki/Cream_(colour)
 Crimson,#dc143c,https://en.wikipedia.org/wiki/Crimson
-Cultured,#f5f5f5,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Pearl_Brite
+Cultured Pearl,#f5f5f5,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Pearl_Brite
 Cyan,#00ffff,https://en.wikipedia.org/wiki/Cyan
 Cyber Grape,#58427c,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Metallic_FX
 Cyber Yellow,#ffd300,https://en.wikipedia.org/wiki/Shades_of_yellow#Cyber_yellow
 Cyclamen,#f56fa1,https://en.wikipedia.org/wiki/Cyclamen_(color)
+Dandelion,#fed85d,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors
 Dark Brown,#654321,https://en.wikipedia.org/wiki/Shades_of_brown#Dark_brown
 Dark Byzantium,#5d3954,https://en.wikipedia.org/wiki/Byzantium_(color)#Dark_byzantium
 Dark Cyan,#008b8b,https://en.wikipedia.org/wiki/Shades_of_cyan#Dark_cyan
@@ -199,7 +199,6 @@ Desert,#c19a6b,https://en.wikipedia.org/wiki/Desert_sand_(color)#Desert
 Desert Sand,#edc9af,https://en.wikipedia.org/wiki/Desert_sand_(color)
 Dim Gray,#696969,https://en.wikipedia.org/wiki/Grey#Web_colors
 Dodger Blue,#1e90ff,https://en.wikipedia.org/wiki/Dodger_blue
-Drab,#967117,https://en.wikipedia.org/wiki/Desert_sand_(color)#Sand_dune_(Drab)
 Drab Dark Brown,#4a412a,https://en.wikipedia.org/wiki/Pantone_448_C
 Duke Blue,#00009c,https://en.wikipedia.org/wiki/Duke_blue
 Dutch White,#efdfbb,https://en.wikipedia.org/wiki/Shades_of_white#Dutch_white
@@ -250,34 +249,28 @@ Frostbite,#e936a7,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Ex
 Fuchsia,#ff00ff,https://en.wikipedia.org/wiki/Fuchsia_(color)
 Fulvous,#e48400,https://en.wikipedia.org/wiki/Fulvous
 Fuzzy Wuzzy,#87421f,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Standard_colors
-GO Green,#00ab66,https://en.wikipedia.org/wiki/Shades_of_green#GO_Transit_green
+GO Green,#00ab66,https://en.wikipedia.org/wiki/Spring_green#GO_Transit_green
 Gainsboro,#dcdcdc,https://en.wikipedia.org/wiki/X11_colour_names#Color_names_identical_between_X11_and_HTML/CSS
 Gamboge,#e49b0f,https://en.wikipedia.org/wiki/Gamboge
 Generic Viridian,#007f66,https://en.wikipedia.org/wiki/Viridian#Generic_viridian
 Ghost White,#f8f8ff,https://en.wikipedia.org/wiki/Shades_of_white#Ghost_white
 Glaucous,#6082b6,https://en.wikipedia.org/wiki/Glaucous
 Glossy Grape,#ab92b3,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Silver_Swirls
-Gold,#a57c00,https://en.wikipedia.org/wiki/Gold_(color)#Gold
+Gold,#e6be8a,https://en.wikipedia.org/wiki/Gold_(color)#Pale_gold
 Gold Fusion,#85754e,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Metallic_FX
 Golden Brown,#996515,https://en.wikipedia.org/wiki/Gold_(color)#Golden_brown
 Golden Poppy,#fcc200,https://en.wikipedia.org/wiki/Gold_(color)#Golden_poppy
 Golden Yellow,#ffdf00,https://en.wikipedia.org/wiki/Gold_(color)#Golden_yellow
 Goldenrod,#daa520,https://en.wikipedia.org/wiki/Goldenrod_(color)
-Gotham Green,#00573f,https://en.wikipedia.org/wiki/Sea_green
+Gotham Green,#00573f,https://en.wikipedia.org/wiki/Spring_green#Gotham_green
 Granite Gray,#676767,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Silver_Swirls
 Granny Smith Apple,#a8e4a0,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors
 Gray,#bebebe,https://en.wikipedia.org/wiki/X11_color_names#Color_names
 Green,#00ff00,https://en.wikipedia.org/wiki/Green
 Green Lizard,#a7f432,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Heads_'n_Tails
 Green Sheen,#6eaea1,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Silver_Swirls
-Green-Blue,#1164b4,https://en.wikipedia.org/wiki/Blue-green
-Green-Cyan,#009966,https://en.wikipedia.org/wiki/Shades_of_cyan
-Green-Yellow,#adff2f,https://en.wikipedia.org/wiki/Shades_of_green#Yellow-green
-Grenadier,#d34600,https://en.wikipedia.org/wiki/Shades_of_red#Grenadier
-Grullo,#a99a86,https://en.wikipedia.org/wiki/Grullo
+Green-Blue,#1164b4,https://en.wikipedia.org/wiki/Blue-green#Green-blue
 Gunmetal,#2a3439,https://en.wikipedia.org/wiki/Shades_of_gray#Gunmetal
-Han Blue,#446ccf,https://en.wikipedia.org/wiki/Han_blue
-Han Purple,#5218fa,https://en.wikipedia.org/wiki/Han_purple
 Hansa Yellow,#e9d66b,https://en.wikipedia.org/wiki/Hansa_yellow
 Harlequin,#3fff00,https://en.wikipedia.org/wiki/Shades_of_green#Harlequin
 Harvest Gold,#da9100,https://en.wikipedia.org/wiki/Gold_(color)#Harvest_gold
@@ -285,14 +278,12 @@ Heat Wave,#ff7a00,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Ex
 Heliotrope,#df73ff,https://en.wikipedia.org/wiki/Heliotrope_(color)
 Heliotrope Gray,#aa98a9,https://en.wikipedia.org/wiki/Heliotrope_(color)#Heliotrope_gray
 Hollywood Cerise,#f400a1,https://en.wikipedia.org/wiki/Cerise_(color)#Hollywood_cerise
-Honeydew,#f0fff0,https://en.wikipedia.org/wiki/Spring_green_(color)#Honeydew
 Honolulu Blue,#006db0,https://en.wikipedia.org/wiki/Shades_of_azure#Honolulu_blue
 Hooker's Green,#49796b,https://en.wikipedia.org/wiki/Shades_of_green#Hooker's_green
 Hot Magenta,#ff1dce,https://en.wikipedia.org/wiki/Shades_of_magenta#Hot_magenta
 Hot Pink,#ff69b4,https://en.wikipedia.org/wiki/Shades_of_pink#Hot_pink
 Hunter Green,#355e3b,https://en.wikipedia.org/wiki/Shades_of_green#Hunter_green
 Iceberg,#71a6d2,https://en.wikipedia.org/wiki/Blue-gray#Iceberg
-Icterine,#fcf75e,https://en.wikipedia.org/wiki/Icterine
 Illuminating Emerald,#319177,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Metallic_FX
 Imperial Red,#ed2939,https://en.wikipedia.org/wiki/Shades_of_red#Imperial_red
 Inchworm,#b2ec5d,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Standard_colors
@@ -302,15 +293,12 @@ Indian Red,#cd5c5c,https://en.wikipedia.org/wiki/Indian_red_(color)
 Indian Yellow,#e3a857,https://en.wikipedia.org/wiki/Indian_yellow
 Indigo,#4b0082,https://en.wikipedia.org/wiki/Indigo
 Indigo Dye,#00416a,https://en.wikipedia.org/wiki/Indigo#Indigo_dye
-Infrared,#ff496c,https://en.wikipedia.org/wiki/Infrared
 International Klein Blue,#130a8f,https://en.wikipedia.org/wiki/Shades_of_Blue#International_Klein_Blue
 International Orange,#c0362c,https://en.wikipedia.org/wiki/International_orange#Golden_Gate_Bridge
-Iris,#5a4fcf,https://en.wikipedia.org/wiki/Iris_(color)
 Irresistible,#b3446c,https://en.wikipedia.org/wiki/Cerise_(color)#Irresistible
 Isabelline,#f4f0ec,https://en.wikipedia.org/wiki/Isabelline_(colour)
 Italian Sky Blue,#b2ffff,https://en.wikipedia.org/wiki/Sky_blue#Celeste
 Ivory,#fffff0,https://en.wikipedia.org/wiki/Ivory_(color)
-Jade,#00a86b,https://en.wikipedia.org/wiki/Shades_of_green#Jade
 Japanese Carmine,#9d2933,https://en.wikipedia.org/wiki/Carmine_(color)#Japanese_carmine
 Japanese Violet,#5b3256,https://en.wikipedia.org/wiki/Shades_of_violet#Japanese_violet
 Jasmine,#f8de7e,https://en.wikipedia.org/wiki/Jasmine_(color)
@@ -327,7 +315,6 @@ Khaki,#f0e68c,https://en.wikipedia.org/wiki/Khaki_(color)#Light_khaki
 Kobe,#882d17,https://en.wikipedia.org/wiki/Indian_red_(color)#Kobe
 Kobi,#e79fc4,https://en.wikipedia.org/wiki/Red-violet#Kobi
 Kobicha,#6b4423,https://en.wikipedia.org/wiki/Kobicha
-Kombu Green,#354230,https://en.wikipedia.org/wiki/Chartreuse_(color)#Kombu_green
 Languid Lavender,#d6cadd,https://en.wikipedia.org/wiki/Lavender_(color)#Languid_lavender
 Lapis Lazuli,#26619c,https://en.wikipedia.org/wiki/Shades_of_azure#Lapis_lazuli
 Laser Lemon,#ffff66,https://en.wikipedia.org/wiki/Lemon_(color)#Laser_lemon
@@ -368,7 +355,7 @@ Lime,#bfff00,https://en.wikipedia.org/wiki/Lime_(color)
 Lime Green,#32cd32,https://en.wikipedia.org/wiki/Lime_(color)#Lime_green
 Lincoln Green,#195905,https://en.wikipedia.org/wiki/Lincoln_green
 Linen,#faf0e6,https://en.wikipedia.org/wiki/Linen_(color)
-Lion,#c19a6b,https://en.wikipedia.org/wiki/Lion_(color)
+Lion,#decc9c,https://en.wikipedia.org/wiki/Lion_(color)
 Liseran Purple,#de6fa1,https://en.wikipedia.org/wiki/Shades_of_purple#Liseran_purple
 Little Boy Blue,#6ca0dc,https://en.wikipedia.org/wiki/Baby_blue#Little_boy_blue
 Liver,#674c47,https://en.wikipedia.org/wiki/Liver_(color)
@@ -392,7 +379,7 @@ Mango Tango,#ff8243,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#
 Mantis,#74c365,https://en.wikipedia.org/wiki/Shades_of_green#Mantis
 Mardi Gras,#880085,https://en.wikipedia.org/wiki/Shades_of_purple#Mardi_Gras
 Marigold,#eaa221,https://en.wikipedia.org/wiki/Marigold_(color)
-Maroon,#c32148,https://en.wikipedia.org/wiki/Maroon#Bright_maroon
+Maroon,#c32148,https://en.wikipedia.org/wiki/Maroon#Maroon_(Crayola)
 Mauve,#e0b0ff,https://en.wikipedia.org/wiki/Mauve
 Mauve Taupe,#915f6d,https://en.wikipedia.org/wiki/Taupe#Mauve_taupe
 Mauvelous,#ef98aa,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Standard_colors
@@ -454,7 +441,7 @@ Misty Rose,#ffe4e1,https://en.wikipedia.org/wiki/Rose_(color)#Misty_rose
 Mode Beige,#967117,https://en.wikipedia.org/wiki/Beige#Mode_beige
 Mona Lisa,#ff948e,https://en.wikipedia.org/wiki/Shades_of_pink#Mona_Lisa
 Morning Blue,#8da399,https://en.wikipedia.org/wiki/Shades_of_blue#Morning_blue
-Moss Green,#8a9a5b,https://en.wikipedia.org/wiki/Shades_of_green#Mint_green
+Moss Green,#8a9a5b,https://en.wikipedia.org/wiki/Shades_of_chartreuse#Moss_green
 Mountain Meadow,#30ba8f,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Standard_colors
 Mountbatten Pink,#997a8d,https://en.wikipedia.org/wiki/Mountbatten_pink
 Mulberry,#c54b8c,https://en.wikipedia.org/wiki/Shades_of_purple#Mulberry
@@ -469,6 +456,7 @@ Navy Blue,#000080,https://en.wikipedia.org/wiki/Navy_blue
 Neon Blue,#4666ff,https://en.wikipedia.org/wiki/Shades_of_blue#Neon_blue
 Neon Fuchsia,#fe4164,https://en.wikipedia.org/wiki/Fuchsia_(color)#Neon_fuchsia
 Neon Green,#39ff14,https://en.wikipedia.org/wiki/Shades_of_green#Neon_green
+New Car,#214fc6,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Magic_Scent
 New York Pink,#d7837f,https://en.wikipedia.org/wiki/Shades_of_pink#New_York_pink
 Nickel,#727472,https://en.wikipedia.org/wiki/Shades_of_gray#Nickel
 Non-Photo Blue,#a4dded,https://en.wikipedia.org/wiki/Non-photo_blue
@@ -505,11 +493,10 @@ Pacific Blue,#1ca9c9,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors
 Pakistan Green,#006600,https://en.wikipedia.org/wiki/Shades_of_green#Pakistan_green
 Palatinate Purple,#682860,https://en.wikipedia.org/wiki/Palatinate_(colour)
 Pale Dogwood,#ed7a9b,https://en.wikipedia.org/wiki/Shades_of_pink#Pale_Dogwood
-Pale Aqua,#bcd4e6,https://en.wikipedia.org/wiki/Aqua_(color)#Pale_aqua
+Pale Aqua,#bed3e5,https://en.wikipedia.org/wiki/Aqua_(color)#Pale_aqua
 Pale Cerulean,#9bc4e2,https://en.wikipedia.org/wiki/Cerulean#Pale_cerulean
 Pale Pink,#fadadd,https://en.wikipedia.org/wiki/Shades_of_pink#Pale_pink
 Pale Purple,#fae6fa,https://en.wikipedia.org/wiki/Shades_of_purple#Pale_purple
-Pale Silver,#c9c0bb,https://en.wikipedia.org/wiki/Silver_(color)#Pale_silver
 Pale Spring Bud,#ecebbd,https://en.wikipedia.org/wiki/Spring_bud#Pale_spring_bud
 Pansy Purple,#78184a,https://en.wikipedia.org/wiki/Shades_of_purple#Pansy_purple
 Paolo Veronese Green,#009b7d,https://en.wikipedia.org/wiki/Viridian#Paolo_Veronese_green
@@ -558,6 +545,7 @@ Pomp and Power,#86608e,https://en.wikipedia.org/wiki/Shades_of_purple#Pomp_and_P
 Popstar,#be4f62,https://en.wikipedia.org/wiki/Red-violet#Popstar
 Portland Orange,#ff5a36,https://en.wikipedia.org/wiki/Portland_Orange
 Powder Blue,#b0e0e6,https://en.wikipedia.org/wiki/Powder_blue
+Prairie Gold,#e1ca7a,https://en.wikipedia.org/w/index.php?title=Prairie_gold&action=edit&redlink=1
 Princeton Orange,#f58025,https://en.wikipedia.org/wiki/Shades_of_orange#Princeton_orange
 Process Yellow,#ffef00,https://en.wikipedia.org/wiki/Shades_of_yellow#Yellow_(CMYK)_(process_yellow)_(canary_yellow)
 Prune,#701c1c,https://en.wikipedia.org/wiki/Plum_(color)#Persian_plum_(prune)
@@ -580,7 +568,7 @@ Radical Red,#ff355e,https://en.wikipedia.org/wiki/Amaranth_(color)#Radical_red_(
 Raisin Black,#242124,https://en.wikipedia.org/wiki/Raisin_black
 Rajah,#fbab60,https://en.wikipedia.org/wiki/Saffron_(color)#Rajah
 Raspberry,#e30b5d,https://en.wikipedia.org/wiki/Raspberry_(color)
-Raspberry Glace,#915f6d,https://en.wikipedia.org/wiki/Raspberry_(color)#Raspberry_glace
+Raspberry Glacé,#915f6d,https://en.wikipedia.org/wiki/Raspberry_(color)#Raspberry_glac%C3%A9
 Raspberry Rose,#b3446c,https://en.wikipedia.org/wiki/Raspberry_(color)#Raspberry_rose
 Raw Sienna,#d68a59,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Standard_colors
 Raw Umber,#826644,https://en.wikipedia.org/wiki/Umber#Raw_umber
@@ -609,7 +597,6 @@ Rose Bonbon,#f9429e,https://en.wikipedia.org/wiki/Rose_(color)#Rose_bonbon
 Rose Ebony,#674846,https://en.wikipedia.org/wiki/Rose_(color)#Rose_ebony
 Rose Madder,#e32636,https://en.wikipedia.org/wiki/Alizarin
 Rose Pink,#ff66cc,https://en.wikipedia.org/wiki/Rose_(color)#Rose_pink
-Rose Quartz,#aa98a9,https://en.wikipedia.org/wiki/Rose_(color)#Rose_quartz
 Rose Red,#c21e56,https://en.wikipedia.org/wiki/Rose_(color)#Rose_red
 Rose Taupe,#905d5d,https://en.wikipedia.org/wiki/Taupe#Rose_taupe
 Rose Vale,#ab4e52,https://en.wikipedia.org/wiki/Rose_(color)#Rose_vale
@@ -704,6 +691,7 @@ Stil De Grain Yellow,#fada5e,https://en.wikipedia.org/wiki/Stil_de_grain_yellow
 Straw,#e4d96f,https://en.wikipedia.org/wiki/Straw_(colour)
 Strawberry,#fa5053,https://en.wikipedia.org/wiki/Strawberry
 Strawberry Blonde,#ff9361,https://en.wikipedia.org/wiki/Strawberry_blonde_(hair_color)
+Strong Lime Green,#33cc33,https://en.wikipedia.org/wiki/Lime_(color)
 Sugar Plum,#914e75,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Silver_Swirls
 Sunglow,#ffcc33,https://en.wikipedia.org/wiki/Sunset_(color)#Sunglow
 Sunray,#e3ab57,https://en.wikipedia.org/wiki/Sunset_(color)#Sunray
@@ -721,6 +709,7 @@ Tea Green,#d0f0c0,https://en.wikipedia.org/wiki/Shades_of_green#Tea_green
 Tea Rose,#f4c2c2,https://en.wikipedia.org/wiki/Shades_of_red#Tea_rose
 Teal,#008080,https://en.wikipedia.org/wiki/Teal
 Teal Blue,#367588,https://en.wikipedia.org/wiki/Teal#Teal_blue
+Technobotanica,#00ffbf,https://en.wikipedia.org/wiki/Shades_of_cyan#Technobotanica
 Telemagenta,#cf3476,https://en.wikipedia.org/wiki/Shades_of_magenta#Telemagenta
 Tenné,#cd5700,https://en.wikipedia.org/wiki/Tawny_(color)
 Terra Cotta,#e2725b,https://en.wikipedia.org/wiki/Terra_cotta_(color)
@@ -740,7 +729,7 @@ Tumbleweed,#deaa88,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors
 Turquoise,#40e0d0,https://en.wikipedia.org/wiki/Turquoise_(color)
 Turquoise Blue,#00ffef,https://en.wikipedia.org/wiki/Turquoise_(color)#Turquoise_blue
 Turquoise Green,#a0d6b4,https://en.wikipedia.org/wiki/Turquoise_(color)#Turquoise_Green
-Turtle Green,#8a9a5b,https://en.wikipedia.org/wiki/Chartreuse_(color)#Turtle_green
+Turtle Green,#8a9a5b,https://en.wikipedia.org/wiki/Shades_of_chartreuse#Turtle_green
 Tuscan,#fad6a5,https://en.wikipedia.org/wiki/Beige#Tuscan
 Tuscan Brown,#6f4e37,https://en.wikipedia.org/wiki/Tuscan_red#Tuscan_brown
 Tuscan Red,#7c4848,https://en.wikipedia.org/wiki/Tuscan_red
@@ -759,7 +748,7 @@ Ultramarine,#3f00ff,https://en.wikipedia.org/wiki/Ultramarine
 Ultramarine Blue,#4166f5,https://en.wikipedia.org/wiki/Ultramarine#Ultramarine_blue
 Umber,#635147,https://en.wikipedia.org/wiki/Umber
 Unbleached Silk,#ffddca,https://en.wikipedia.org/wiki/Beige#Unbleached_silk
-United Nations Blue,#5b92e5,https://en.wikipedia.org/wiki/Shades_of_azure#United_Nations_blue
+United Nations Blue,#009edb,https://en.wikipedia.org/wiki/Shades_of_azure#United_Nations_blue
 University of Pennsylvania Red,#a50021,https://en.wikipedia.org/wiki/Shades_of_red#Penn_red
 Unmellow Yellow,#ffff66,https://en.wikipedia.org/wiki/Shades_of_yellow#Unmellow_yellow
 Upsdell Red,#ae2029,https://en.wikipedia.org/wiki/Upsdell_red
@@ -808,4 +797,5 @@ Yellow Orange,#ffae42,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_color
 Yellow Sunshine,#fff700,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Heads_'n_Tails
 Yellow-Green,#9acd32,https://en.wikipedia.org/wiki/Yellow-green
 Zaffre,#0014a8,https://en.wikipedia.org/wiki/Zaffre
+Zinnwaldite Brown,#2c1608,https://en.wikipedia.org/wiki/Zinnwaldite
 Zomp,#39a78e,https://en.wikipedia.org/wiki/Spring_green#Zomp

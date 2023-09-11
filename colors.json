@@ -190,6 +190,11 @@
     "link": "https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Standard_colors"
   },
   {
+    "name": "Barbie Pink",
+    "hex": "#da1884",
+    "link": "https://en.wikipedia.org/wiki/Barbie_Pink"
+  },
+  {
     "name": "Barn Red",
     "hex": "#7c0a02",
     "link": "https://en.wikipedia.org/wiki/Shades_of_red#Barn_red"
@@ -355,16 +360,6 @@
     "link": "https://en.wikipedia.org/wiki/Lilac_(color)#Bright_lilac"
   },
   {
-    "name": "Bright Maroon",
-    "hex": "#c32148",
-    "link": "https://en.wikipedia.org/wiki/Maroon#Bright_maroon"
-  },
-  {
-    "name": "Bright Navy Blue",
-    "hex": "#1974d2",
-    "link": "https://en.wikipedia.org/wiki/Navy_blue#Bright_navy_blue"
-  },
-  {
     "name": "Bright Yellow",
     "hex": "#ffaa1d",
     "link": "https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Heads_'n_Tails"
@@ -373,6 +368,11 @@
     "name": "Bronze",
     "hex": "#cd7f32",
     "link": "https://en.wikipedia.org/wiki/Bronze_(color)"
+  },
+  {
+    "name": "Brown",
+    "hex": "#88540b",
+    "link": "https://en.wikipedia.org/wiki/Brown"
   },
   {
     "name": "Brown Sugar",
@@ -488,11 +488,6 @@
     "name": "Candy Pink",
     "hex": "#e4717a",
     "link": "https://en.wikipedia.org/wiki/Candy_apple_red#Candy_pink"
-  },
-  {
-    "name": "Capri",
-    "hex": "#00bfff",
-    "link": "https://en.wikipedia.org/wiki/Sky_blue#Deep_sky_blue"
   },
   {
     "name": "Cardinal",
@@ -770,7 +765,7 @@
     "link": "https://en.wikipedia.org/wiki/Crimson"
   },
   {
-    "name": "Cultured",
+    "name": "Cultured Pearl",
     "hex": "#f5f5f5",
     "link": "https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Pearl_Brite"
   },
@@ -793,6 +788,11 @@
     "name": "Cyclamen",
     "hex": "#f56fa1",
     "link": "https://en.wikipedia.org/wiki/Cyclamen_(color)"
+  },
+  {
+    "name": "Dandelion",
+    "hex": "#fed85d",
+    "link": "https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors"
   },
   {
     "name": "Dark Brown",
@@ -998,11 +998,6 @@
     "name": "Dodger Blue",
     "hex": "#1e90ff",
     "link": "https://en.wikipedia.org/wiki/Dodger_blue"
-  },
-  {
-    "name": "Drab",
-    "hex": "#967117",
-    "link": "https://en.wikipedia.org/wiki/Desert_sand_(color)#Sand_dune_(Drab)"
   },
   {
     "name": "Drab Dark Brown",
@@ -1257,7 +1252,7 @@
   {
     "name": "GO Green",
     "hex": "#00ab66",
-    "link": "https://en.wikipedia.org/wiki/Shades_of_green#GO_Transit_green"
+    "link": "https://en.wikipedia.org/wiki/Spring_green#GO_Transit_green"
   },
   {
     "name": "Gainsboro",
@@ -1291,8 +1286,8 @@
   },
   {
     "name": "Gold",
-    "hex": "#a57c00",
-    "link": "https://en.wikipedia.org/wiki/Gold_(color)#Gold"
+    "hex": "#e6be8a",
+    "link": "https://en.wikipedia.org/wiki/Gold_(color)#Pale_gold"
   },
   {
     "name": "Gold Fusion",
@@ -1322,7 +1317,7 @@
   {
     "name": "Gotham Green",
     "hex": "#00573f",
-    "link": "https://en.wikipedia.org/wiki/Sea_green"
+    "link": "https://en.wikipedia.org/wiki/Spring_green#Gotham_green"
   },
   {
     "name": "Granite Gray",
@@ -1357,42 +1352,12 @@
   {
     "name": "Green-Blue",
     "hex": "#1164b4",
-    "link": "https://en.wikipedia.org/wiki/Blue-green"
-  },
-  {
-    "name": "Green-Cyan",
-    "hex": "#009966",
-    "link": "https://en.wikipedia.org/wiki/Shades_of_cyan"
-  },
-  {
-    "name": "Green-Yellow",
-    "hex": "#adff2f",
-    "link": "https://en.wikipedia.org/wiki/Shades_of_green#Yellow-green"
-  },
-  {
-    "name": "Grenadier",
-    "hex": "#d34600",
-    "link": "https://en.wikipedia.org/wiki/Shades_of_red#Grenadier"
-  },
-  {
-    "name": "Grullo",
-    "hex": "#a99a86",
-    "link": "https://en.wikipedia.org/wiki/Grullo"
+    "link": "https://en.wikipedia.org/wiki/Blue-green#Green-blue"
   },
   {
     "name": "Gunmetal",
     "hex": "#2a3439",
     "link": "https://en.wikipedia.org/wiki/Shades_of_gray#Gunmetal"
-  },
-  {
-    "name": "Han Blue",
-    "hex": "#446ccf",
-    "link": "https://en.wikipedia.org/wiki/Han_blue"
-  },
-  {
-    "name": "Han Purple",
-    "hex": "#5218fa",
-    "link": "https://en.wikipedia.org/wiki/Han_purple"
   },
   {
     "name": "Hansa Yellow",
@@ -1430,11 +1395,6 @@
     "link": "https://en.wikipedia.org/wiki/Cerise_(color)#Hollywood_cerise"
   },
   {
-    "name": "Honeydew",
-    "hex": "#f0fff0",
-    "link": "https://en.wikipedia.org/wiki/Spring_green_(color)#Honeydew"
-  },
-  {
     "name": "Honolulu Blue",
     "hex": "#006db0",
     "link": "https://en.wikipedia.org/wiki/Shades_of_azure#Honolulu_blue"
@@ -1463,11 +1423,6 @@
     "name": "Iceberg",
     "hex": "#71a6d2",
     "link": "https://en.wikipedia.org/wiki/Blue-gray#Iceberg"
-  },
-  {
-    "name": "Icterine",
-    "hex": "#fcf75e",
-    "link": "https://en.wikipedia.org/wiki/Icterine"
   },
   {
     "name": "Illuminating Emerald",
@@ -1515,11 +1470,6 @@
     "link": "https://en.wikipedia.org/wiki/Indigo#Indigo_dye"
   },
   {
-    "name": "Infrared",
-    "hex": "#ff496c",
-    "link": "https://en.wikipedia.org/wiki/Infrared"
-  },
-  {
     "name": "International Klein Blue",
     "hex": "#130a8f",
     "link": "https://en.wikipedia.org/wiki/Shades_of_Blue#International_Klein_Blue"
@@ -1528,11 +1478,6 @@
     "name": "International Orange",
     "hex": "#c0362c",
     "link": "https://en.wikipedia.org/wiki/International_orange#Golden_Gate_Bridge"
-  },
-  {
-    "name": "Iris",
-    "hex": "#5a4fcf",
-    "link": "https://en.wikipedia.org/wiki/Iris_(color)"
   },
   {
     "name": "Irresistible",
@@ -1553,11 +1498,6 @@
     "name": "Ivory",
     "hex": "#fffff0",
     "link": "https://en.wikipedia.org/wiki/Ivory_(color)"
-  },
-  {
-    "name": "Jade",
-    "hex": "#00a86b",
-    "link": "https://en.wikipedia.org/wiki/Shades_of_green#Jade"
   },
   {
     "name": "Japanese Carmine",
@@ -1638,11 +1578,6 @@
     "name": "Kobicha",
     "hex": "#6b4423",
     "link": "https://en.wikipedia.org/wiki/Kobicha"
-  },
-  {
-    "name": "Kombu Green",
-    "hex": "#354230",
-    "link": "https://en.wikipedia.org/wiki/Chartreuse_(color)#Kombu_green"
   },
   {
     "name": "Languid Lavender",
@@ -1846,7 +1781,7 @@
   },
   {
     "name": "Lion",
-    "hex": "#c19a6b",
+    "hex": "#decc9c",
     "link": "https://en.wikipedia.org/wiki/Lion_(color)"
   },
   {
@@ -1967,7 +1902,7 @@
   {
     "name": "Maroon",
     "hex": "#c32148",
-    "link": "https://en.wikipedia.org/wiki/Maroon#Bright_maroon"
+    "link": "https://en.wikipedia.org/wiki/Maroon#Maroon_(Crayola)"
   },
   {
     "name": "Mauve",
@@ -2277,7 +2212,7 @@
   {
     "name": "Moss Green",
     "hex": "#8a9a5b",
-    "link": "https://en.wikipedia.org/wiki/Shades_of_green#Mint_green"
+    "link": "https://en.wikipedia.org/wiki/Shades_of_chartreuse#Moss_green"
   },
   {
     "name": "Mountain Meadow",
@@ -2348,6 +2283,11 @@
     "name": "Neon Green",
     "hex": "#39ff14",
     "link": "https://en.wikipedia.org/wiki/Shades_of_green#Neon_green"
+  },
+  {
+    "name": "New Car",
+    "hex": "#214fc6",
+    "link": "https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Magic_Scent"
   },
   {
     "name": "New York Pink",
@@ -2531,7 +2471,7 @@
   },
   {
     "name": "Pale Aqua",
-    "hex": "#bcd4e6",
+    "hex": "#bed3e5",
     "link": "https://en.wikipedia.org/wiki/Aqua_(color)#Pale_aqua"
   },
   {
@@ -2548,11 +2488,6 @@
     "name": "Pale Purple",
     "hex": "#fae6fa",
     "link": "https://en.wikipedia.org/wiki/Shades_of_purple#Pale_purple"
-  },
-  {
-    "name": "Pale Silver",
-    "hex": "#c9c0bb",
-    "link": "https://en.wikipedia.org/wiki/Silver_(color)#Pale_silver"
   },
   {
     "name": "Pale Spring Bud",
@@ -2795,6 +2730,11 @@
     "link": "https://en.wikipedia.org/wiki/Powder_blue"
   },
   {
+    "name": "Prairie Gold",
+    "hex": "#e1ca7a",
+    "link": "https://en.wikipedia.org/w/index.php?title=Prairie_gold&action=edit&redlink=1"
+  },
+  {
     "name": "Princeton Orange",
     "hex": "#f58025",
     "link": "https://en.wikipedia.org/wiki/Shades_of_orange#Princeton_orange"
@@ -2905,9 +2845,9 @@
     "link": "https://en.wikipedia.org/wiki/Raspberry_(color)"
   },
   {
-    "name": "Raspberry Glace",
+    "name": "Raspberry Glacé",
     "hex": "#915f6d",
-    "link": "https://en.wikipedia.org/wiki/Raspberry_(color)#Raspberry_glace"
+    "link": "https://en.wikipedia.org/wiki/Raspberry_(color)#Raspberry_glac%C3%A9"
   },
   {
     "name": "Raspberry Rose",
@@ -3048,11 +2988,6 @@
     "name": "Rose Pink",
     "hex": "#ff66cc",
     "link": "https://en.wikipedia.org/wiki/Rose_(color)#Rose_pink"
-  },
-  {
-    "name": "Rose Quartz",
-    "hex": "#aa98a9",
-    "link": "https://en.wikipedia.org/wiki/Rose_(color)#Rose_quartz"
   },
   {
     "name": "Rose Red",
@@ -3525,6 +3460,11 @@
     "link": "https://en.wikipedia.org/wiki/Strawberry_blonde_(hair_color)"
   },
   {
+    "name": "Strong Lime Green",
+    "hex": "#33cc33",
+    "link": "https://en.wikipedia.org/wiki/Lime_(color)"
+  },
+  {
     "name": "Sugar Plum",
     "hex": "#914e75",
     "link": "https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Silver_Swirls"
@@ -3608,6 +3548,11 @@
     "name": "Teal Blue",
     "hex": "#367588",
     "link": "https://en.wikipedia.org/wiki/Teal#Teal_blue"
+  },
+  {
+    "name": "Technobotanica",
+    "hex": "#00ffbf",
+    "link": "https://en.wikipedia.org/wiki/Shades_of_cyan#Technobotanica"
   },
   {
     "name": "Telemagenta",
@@ -3707,7 +3652,7 @@
   {
     "name": "Turtle Green",
     "hex": "#8a9a5b",
-    "link": "https://en.wikipedia.org/wiki/Chartreuse_(color)#Turtle_green"
+    "link": "https://en.wikipedia.org/wiki/Shades_of_chartreuse#Turtle_green"
   },
   {
     "name": "Tuscan",
@@ -3801,7 +3746,7 @@
   },
   {
     "name": "United Nations Blue",
-    "hex": "#5b92e5",
+    "hex": "#009edb",
     "link": "https://en.wikipedia.org/wiki/Shades_of_azure#United_Nations_blue"
   },
   {
@@ -4043,6 +3988,11 @@
     "name": "Zaffre",
     "hex": "#0014a8",
     "link": "https://en.wikipedia.org/wiki/Zaffre"
+  },
+  {
+    "name": "Zinnwaldite Brown",
+    "hex": "#2c1608",
+    "link": "https://en.wikipedia.org/wiki/Zinnwaldite"
   },
   {
     "name": "Zomp",
