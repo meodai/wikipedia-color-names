@@ -1,6 +1,6 @@
 {
   "name": "wikipedia-color-names",
-  "version": "1.8.1",
+  "version": "1.9.0",
   "description": "somewhat up to date list of wikipedia color names",
   "main": "index.json",
   "scripts": {
