@@ -41,7 +41,7 @@
   },
   {
     "name": "Almond",
-    "hex": "#efdecd",
+    "hex": "#eed9c4",
     "link": "https://en.wikipedia.org/wiki/Almond_(color)"
   },
   {
@@ -81,8 +81,8 @@
   },
   {
     "name": "Antique Brass",
-    "hex": "#cd9575",
-    "link": "https://en.wikipedia.org/wiki/Antique_brass"
+    "hex": "#c88a65",
+    "link": "https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Standard_colors"
   },
   {
     "name": "Antique Bronze",
@@ -365,13 +365,18 @@
     "link": "https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Heads_'n_Tails"
   },
   {
+    "name": "British Racing Green",
+    "hex": "#004225",
+    "link": "https://en.wikipedia.org/wiki/British_racing_green"
+  },
+  {
     "name": "Bronze",
     "hex": "#cd7f32",
     "link": "https://en.wikipedia.org/wiki/Bronze_(color)"
   },
   {
     "name": "Brown",
-    "hex": "#88540b",
+    "hex": "#964b00",
     "link": "https://en.wikipedia.org/wiki/Brown"
   },
   {
@@ -1461,13 +1466,13 @@
   },
   {
     "name": "Indigo",
-    "hex": "#4b0082",
+    "hex": "#6a5dff",
     "link": "https://en.wikipedia.org/wiki/Indigo"
   },
   {
     "name": "Indigo Dye",
     "hex": "#00416a",
-    "link": "https://en.wikipedia.org/wiki/Indigo#Indigo_dye"
+    "link": "https://en.wikipedia.org/wiki/Indigo#Indigo_dye_color"
   },
   {
     "name": "International Klein Blue",
@@ -2660,11 +2665,6 @@
     "link": "https://en.wikipedia.org/wiki/Shades_of_green#Mint_green"
   },
   {
-    "name": "Pine Tree",
-    "hex": "#2a2f23",
-    "link": "https://en.wikipedia.org/wiki/Shades_of_green#Pine_tree"
-  },
-  {
     "name": "Pink",
     "hex": "#ffc0cb",
     "link": "https://en.wikipedia.org/wiki/Pink"
@@ -2687,7 +2687,7 @@
   {
     "name": "Pistachio",
     "hex": "#93c572",
-    "link": "https://en.wikipedia.org/wiki/Chartreuse_(color)#Pistachio"
+    "link": "https://en.wikipedia.org/wiki/Shades_of_chartreuse#Pistachio"
   },
   {
     "name": "Platinum",
@@ -2738,11 +2738,6 @@
     "name": "Princeton Orange",
     "hex": "#f58025",
     "link": "https://en.wikipedia.org/wiki/Shades_of_orange#Princeton_orange"
-  },
-  {
-    "name": "Process Yellow",
-    "hex": "#ffef00",
-    "link": "https://en.wikipedia.org/wiki/Shades_of_yellow#Yellow_(CMYK)_(process_yellow)_(canary_yellow)"
   },
   {
     "name": "Prune",
@@ -3445,6 +3440,11 @@
     "link": "https://en.wikipedia.org/wiki/Stil_de_grain_yellow"
   },
   {
+    "name": "Stizza",
+    "hex": "#900910",
+    "link": "https://en.wikipedia.org/w/index.php?title=Stizza&action=edit&redlink=1"
+  },
+  {
     "name": "Straw",
     "hex": "#e4d96f",
     "link": "https://en.wikipedia.org/wiki/Straw_(colour)"
@@ -3982,7 +3982,7 @@
   {
     "name": "Yellow-Green",
     "hex": "#9acd32",
-    "link": "https://en.wikipedia.org/wiki/Yellow-green"
+    "link": "https://en.wikipedia.org/wiki/Shades_of_chartreuse#Yellow-green"
   },
   {
     "name": "Zaffre",

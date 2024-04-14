@@ -7,7 +7,7 @@ Air Superiority Blue,#72a0c1,https://en.wikipedia.org/wiki/Air_Force_blue#Air_su
 Alice Blue,#f0f8ff,https://en.wikipedia.org/wiki/Alice_blue
 Alizarin,#db2d43,https://en.wikipedia.org/wiki/Amaranth_(color)#Alizarin
 Alloy Orange,#c46210,https://en.wikipedia.org/wiki/Shades_of_orange#Alloy_orange
-Almond,#efdecd,https://en.wikipedia.org/wiki/Almond_(color)
+Almond,#eed9c4,https://en.wikipedia.org/wiki/Almond_(color)
 Amaranth Deep Purple,#9f2b68,https://en.wikipedia.org/wiki/Amaranth_(color)#Amaranth_deep_purple
 Amaranth Pink,#f19cbb,https://en.wikipedia.org/wiki/Amaranth_(color)#Amaranth_pink
 Amaranth Purple,#ab274f,https://en.wikipedia.org/wiki/Amaranth_(color)#Amaranth_purple
@@ -15,7 +15,7 @@ Amazon,#3b7a57,https://en.wikipedia.org/wiki/Amazon_(color)
 Amber,#ffbf00,https://en.wikipedia.org/wiki/Amber_(color)
 Amethyst,#9966cc,https://en.wikipedia.org/wiki/Amethyst_(color)
 Android Green,#3ddc84,https://en.wikipedia.org/wiki/Android_green
-Antique Brass,#cd9575,https://en.wikipedia.org/wiki/Antique_brass
+Antique Brass,#c88a65,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Standard_colors
 Antique Bronze,#665d1e,https://en.wikipedia.org/wiki/Antique_bronze
 Antique Fuchsia,#915c83,https://en.wikipedia.org/wiki/Fuchsia_(color)#Antique_fuchsia
 Antique Ruby,#841b2d,https://en.wikipedia.org/wiki/Ruby_(color)#Antique_ruby
@@ -72,8 +72,9 @@ Bone,#e3dac9,https://en.wikipedia.org/wiki/Shades_of_white#Bone
 Brick Red,#cb4154,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Standard_colors
 Bright Lilac,#d891ef,https://en.wikipedia.org/wiki/Lilac_(color)#Bright_lilac
 Bright Yellow,#ffaa1d,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Heads_'n_Tails
+British Racing Green,#004225,https://en.wikipedia.org/wiki/British_racing_green
 Bronze,#cd7f32,https://en.wikipedia.org/wiki/Bronze_(color)
-Brown,#88540b,https://en.wikipedia.org/wiki/Brown
+Brown,#964b00,https://en.wikipedia.org/wiki/Brown
 Brown Sugar,#af6e4d,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Heads_'n_Tails
 Bud Green,#7bb661,https://en.wikipedia.org/wiki/Spring_bud#Bud_green
 Buff,#ffc680,https://en.wikipedia.org/wiki/Buff_(colour)
@@ -291,8 +292,8 @@ Independence,#4c516d,https://en.wikipedia.org/wiki/Shades_of_blue#Independence
 India Green,#138808,https://en.wikipedia.org/wiki/Shades_of_green#India_green
 Indian Red,#cd5c5c,https://en.wikipedia.org/wiki/Indian_red_(color)
 Indian Yellow,#e3a857,https://en.wikipedia.org/wiki/Indian_yellow
-Indigo,#4b0082,https://en.wikipedia.org/wiki/Indigo
-Indigo Dye,#00416a,https://en.wikipedia.org/wiki/Indigo#Indigo_dye
+Indigo,#6a5dff,https://en.wikipedia.org/wiki/Indigo
+Indigo Dye,#00416a,https://en.wikipedia.org/wiki/Indigo#Indigo_dye_color
 International Klein Blue,#130a8f,https://en.wikipedia.org/wiki/Shades_of_Blue#International_Klein_Blue
 International Orange,#c0362c,https://en.wikipedia.org/wiki/International_orange#Golden_Gate_Bridge
 Irresistible,#b3446c,https://en.wikipedia.org/wiki/Cerise_(color)#Irresistible
@@ -531,12 +532,11 @@ Picotee Blue,#2e2787,https://en.wikipedia.org/wiki/Shades_of_blue#Picotee_blue
 Pictorial Carmine,#c30b4e,https://en.wikipedia.org/wiki/Carmine_(color)#Pictorial_carmine
 Piggy Pink,#fddde6,https://en.wikipedia.org/wiki/Shades_of_pink#Piggy_pink
 Pine Green,#01796f,https://en.wikipedia.org/wiki/Shades_of_green#Mint_green
-Pine Tree,#2a2f23,https://en.wikipedia.org/wiki/Shades_of_green#Pine_tree
 Pink,#ffc0cb,https://en.wikipedia.org/wiki/Pink
 Pink Sherbet,#f78fa7,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors
 Pink Lace,#ffddf4,https://en.wikipedia.org/wiki/Shades_of_pink#Pink_lace
 Pink Lavender,#d8b2d1,https://en.wikipedia.org/wiki/Shades_of_pink#Pink_lavender
-Pistachio,#93c572,https://en.wikipedia.org/wiki/Chartreuse_(color)#Pistachio
+Pistachio,#93c572,https://en.wikipedia.org/wiki/Shades_of_chartreuse#Pistachio
 Platinum,#e5e4e2,https://en.wikipedia.org/wiki/Platinum_(color)
 Plum,#8e4585,https://en.wikipedia.org/wiki/Plum_(color)
 Plump Purple,#5946b2,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Heads_'n_Tails
@@ -547,7 +547,6 @@ Portland Orange,#ff5a36,https://en.wikipedia.org/wiki/Portland_Orange
 Powder Blue,#b0e0e6,https://en.wikipedia.org/wiki/Powder_blue
 Prairie Gold,#e1ca7a,https://en.wikipedia.org/w/index.php?title=Prairie_gold&action=edit&redlink=1
 Princeton Orange,#f58025,https://en.wikipedia.org/wiki/Shades_of_orange#Princeton_orange
-Process Yellow,#ffef00,https://en.wikipedia.org/wiki/Shades_of_yellow#Yellow_(CMYK)_(process_yellow)_(canary_yellow)
 Prune,#701c1c,https://en.wikipedia.org/wiki/Plum_(color)#Persian_plum_(prune)
 Prussian Blue,#003153,https://en.wikipedia.org/wiki/Prussian_blue
 Psychedelic Purple,#df00ff,https://en.wikipedia.org/wiki/Psychedelic_purple
@@ -688,6 +687,7 @@ Star Command Blue,#007bb8,https://en.wikipedia.org/wiki/Cadet_grey#Star_command_
 Steel Blue,#4682b4,https://en.wikipedia.org/wiki/Steel_blue
 Steel Pink,#cc33cc,https://en.wikipedia.org/wiki/Shades_of_pink#Steel_pink
 Stil De Grain Yellow,#fada5e,https://en.wikipedia.org/wiki/Stil_de_grain_yellow
+Stizza,#900910,https://en.wikipedia.org/w/index.php?title=Stizza&action=edit&redlink=1
 Straw,#e4d96f,https://en.wikipedia.org/wiki/Straw_(colour)
 Strawberry,#fa5053,https://en.wikipedia.org/wiki/Strawberry
 Strawberry Blonde,#ff9361,https://en.wikipedia.org/wiki/Strawberry_blonde_(hair_color)
@@ -795,7 +795,7 @@ Yale Blue,#00356b,https://en.wikipedia.org/wiki/Yale_Blue
 Yellow,#ffff00,https://en.wikipedia.org/wiki/Yellow
 Yellow Orange,#ffae42,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors
 Yellow Sunshine,#fff700,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Heads_'n_Tails
-Yellow-Green,#9acd32,https://en.wikipedia.org/wiki/Yellow-green
+Yellow-Green,#9acd32,https://en.wikipedia.org/wiki/Shades_of_chartreuse#Yellow-green
 Zaffre,#0014a8,https://en.wikipedia.org/wiki/Zaffre
 Zinnwaldite Brown,#2c1608,https://en.wikipedia.org/wiki/Zinnwaldite
 Zomp,#39a78e,https://en.wikipedia.org/wiki/Spring_green#Zomp
