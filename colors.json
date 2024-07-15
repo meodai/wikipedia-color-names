@@ -797,7 +797,7 @@
   {
     "name": "Dandelion",
     "hex": "#fed85d",
-    "link": "https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors"
+    "link": "https://en.wikipedia.org/wiki/Dandelion_(crayon_color)"
   },
   {
     "name": "Dark Brown",
@@ -868,11 +868,6 @@
     "name": "Dark Orchid",
     "hex": "#9932cc",
     "link": "https://en.wikipedia.org/wiki/Orchid_(color)#Dark_orchid"
-  },
-  {
-    "name": "Dark Purple",
-    "hex": "#301934",
-    "link": "https://en.wikipedia.org/wiki/Dark_purple"
   },
   {
     "name": "Dark Red",
@@ -2200,6 +2195,11 @@
     "link": "https://en.wikipedia.org/wiki/Rose_(color)#Misty_rose"
   },
   {
+    "name": "Moccasin",
+    "hex": "#ffe4b5",
+    "link": "https://en.wikipedia.org/wiki/Shades_of_yellow#Moccasin"
+  },
+  {
     "name": "Mode Beige",
     "hex": "#967117",
     "link": "https://en.wikipedia.org/wiki/Beige#Mode_beige"
@@ -3087,7 +3087,7 @@
   {
     "name": "Saddle Brown",
     "hex": "#8b4513",
-    "link": "https://en.wikipedia.org/wiki/X11_color_names#Color_name_charts"
+    "link": "https://en.wikipedia.org/wiki/Shades_of_brown#Saddle_Brown"
   },
   {
     "name": "Safety Orange",
@@ -3717,7 +3717,7 @@
   {
     "name": "Ultra Pink",
     "hex": "#ff6fff",
-    "link": "https://en.wikipedia.org/wiki/Shades_of_magenta#Shocking_pink_(Crayola)"
+    "link": "https://en.wikipedia.org/wiki/Shades_of_magenta#Shocking_pink"
   },
   {
     "name": "Ultra Red",
@@ -3873,6 +3873,11 @@
     "name": "Weezy Blue",
     "hex": "#189bcc",
     "link": "https://en.wikipedia.org/wiki/Weezer_(Blue_Album)"
+  },
+  {
+    "name": "Weezy Red",
+    "hex": "#ea213a",
+    "link": "https://en.wikipedia.org/wiki/Weezer_(Red_Album)"
   },
   {
     "name": "Wheat",

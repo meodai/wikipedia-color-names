@@ -158,7 +158,7 @@ Cyan,#00ffff,https://en.wikipedia.org/wiki/Cyan
 Cyber Grape,#58427c,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Metallic_FX
 Cyber Yellow,#ffd300,https://en.wikipedia.org/wiki/Shades_of_yellow#Cyber_yellow
 Cyclamen,#f56fa1,https://en.wikipedia.org/wiki/Cyclamen_(color)
-Dandelion,#fed85d,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors
+Dandelion,#fed85d,https://en.wikipedia.org/wiki/Dandelion_(crayon_color)
 Dark Brown,#654321,https://en.wikipedia.org/wiki/Shades_of_brown#Dark_brown
 Dark Byzantium,#5d3954,https://en.wikipedia.org/wiki/Byzantium_(color)#Dark_byzantium
 Dark Cyan,#008b8b,https://en.wikipedia.org/wiki/Shades_of_cyan#Dark_cyan
@@ -173,7 +173,6 @@ Dark Magenta,#8b008b,https://en.wikipedia.org/wiki/Shades_of_magenta#Dark_magent
 Dark Olive Green,#556b2f,https://en.wikipedia.org/wiki/Olive_(color)#Dark_olive_green
 Dark Orange,#ff8c00,https://en.wikipedia.org/wiki/Shades_of_orange#Dark_orange_(web_color)
 Dark Orchid,#9932cc,https://en.wikipedia.org/wiki/Orchid_(color)#Dark_orchid
-Dark Purple,#301934,https://en.wikipedia.org/wiki/Dark_purple
 Dark Red,#8b0000,https://en.wikipedia.org/wiki/Maroon_(color)#Dark_red
 Dark Salmon,#e9967a,https://en.wikipedia.org/wiki/Salmon_(color)#Dark_salmon
 Dark Sea Green,#8fbc8f,https://en.wikipedia.org/wiki/X11_color_names#Color_name_charts
@@ -439,6 +438,7 @@ Mint Cream,#f5fffa,https://en.wikipedia.org/wiki/Spring_green_(color)#Mint_cream
 Mint Green,#98ff98,https://en.wikipedia.org/wiki/Spring_green_(color)#Mint_green
 Misty Moss,#bbb477,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Silver_Swirls
 Misty Rose,#ffe4e1,https://en.wikipedia.org/wiki/Rose_(color)#Misty_rose
+Moccasin,#ffe4b5,https://en.wikipedia.org/wiki/Shades_of_yellow#Moccasin
 Mode Beige,#967117,https://en.wikipedia.org/wiki/Beige#Mode_beige
 Mona Lisa,#ff948e,https://en.wikipedia.org/wiki/Shades_of_pink#Mona_Lisa
 Morning Blue,#8da399,https://en.wikipedia.org/wiki/Shades_of_blue#Morning_blue
@@ -616,7 +616,7 @@ Russian Violet,#32174d,https://en.wikipedia.org/wiki/Shades_of_violet#Russian_vi
 Rust,#b7410e,https://en.wikipedia.org/wiki/Rust_(color)
 Rusty Red,#da2c43,https://en.wikipedia.org/wiki/Shades_of_red#Rusty_red
 Sacramento State Green,#043927,https://en.wikipedia.org/wiki/Shades_of_green#Sacramento_State_green
-Saddle Brown,#8b4513,https://en.wikipedia.org/wiki/X11_color_names#Color_name_charts
+Saddle Brown,#8b4513,https://en.wikipedia.org/wiki/Shades_of_brown#Saddle_Brown
 Safety Orange,#ff7800,https://en.wikipedia.org/wiki/Safety_orange
 Safety Yellow,#eed202,https://en.wikipedia.org/wiki/Shades_of_yellow#Safety_yellow
 Saffron,#f4c430,https://en.wikipedia.org/wiki/Saffron_(color)
@@ -742,7 +742,7 @@ UA Red,#d9004c,https://en.wikipedia.org/wiki/University_of_Arizona#School_colors
 UP Forest Green,#014421,https://en.wikipedia.org/wiki/Shades_of_green#UP_forest_green
 UP Maroon,#7b1113,https://en.wikipedia.org/wiki/Maroon_(color)#UP_maroon
 USAFA Blue,#004f98,https://en.wikipedia.org/wiki/Air_Force_blue#USAFA_blue
-Ultra Pink,#ff6fff,https://en.wikipedia.org/wiki/Shades_of_magenta#Shocking_pink_(Crayola)
+Ultra Pink,#ff6fff,https://en.wikipedia.org/wiki/Shades_of_magenta#Shocking_pink
 Ultra Red,#fc6c85,https://en.wikipedia.org/wiki/Carmine_(color)#Ultra_red
 Ultramarine,#3f00ff,https://en.wikipedia.org/wiki/Ultramarine
 Ultramarine Blue,#4166f5,https://en.wikipedia.org/wiki/Ultramarine#Ultramarine_blue
@@ -774,6 +774,7 @@ Vivid Violet,#9f00ff,https://en.wikipedia.org/wiki/Shades_of_violet#Vivid_violet
 Volt,#ceff00,https://en.wikipedia.org/wiki/Lime_(color)#Volt
 Warm Black,#004242,https://en.wikipedia.org/wiki/Rich_black
 Weezy Blue,#189bcc,https://en.wikipedia.org/wiki/Weezer_(Blue_Album)
+Weezy Red,#ea213a,https://en.wikipedia.org/wiki/Weezer_(Red_Album)
 Wheat,#f5deb3,https://en.wikipedia.org/wiki/Wheat_(color)
 White,#ffffff,https://en.wikipedia.org/wiki/White
 Wild Strawberry,#ff43a4,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Standard_colors

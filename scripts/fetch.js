@@ -65,6 +65,9 @@ let colors = [];
     return false;
   });
 
+  // remove colors with name as hex value (not sure why they are there in the first place)
+  colors = colors.filter(c => c.name !== c.hex);
+
   
 
   await browser.close();
