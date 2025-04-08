@@ -23,13 +23,13 @@ let colors = [];
       const colorRows = colorTable.querySelectorAll('tr');
       for (let i = 1; i < colorRows.length; i++) {
         const colorRow = colorRows[i];
-        let $wrap = colorRow.querySelector('th a');
+        let $wrap = colorRow.querySelector('a');
         //sometimes people mess up the links
         $wrap = $wrap ? $wrap : colorRow.querySelector('td');  
 
         const name = $wrap.innerText;
         const link = $wrap.href;
-        const hex = colorRow.querySelector('td:nth-child(2)').innerText;
+        const hex = colorRow.querySelector('td:nth-child(3)').innerText;
         colorList.push({
           name, hex, link,
         });
