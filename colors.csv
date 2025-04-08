@@ -173,6 +173,7 @@ Dark Magenta,#8b008b,https://en.wikipedia.org/wiki/Shades_of_magenta#Dark_magent
 Dark Olive Green,#556b2f,https://en.wikipedia.org/wiki/Olive_(color)#Dark_olive_green
 Dark Orange,#ff8c00,https://en.wikipedia.org/wiki/Shades_of_orange#Dark_orange_(web_color)
 Dark Orchid,#9932cc,https://en.wikipedia.org/wiki/Orchid_(color)#Dark_orchid
+Dark Purple,#301934,undefined
 Dark Red,#8b0000,https://en.wikipedia.org/wiki/Maroon_(color)#Dark_red
 Dark Salmon,#e9967a,https://en.wikipedia.org/wiki/Salmon_(color)#Dark_salmon
 Dark Sea Green,#8fbc8f,https://en.wikipedia.org/wiki/X11_color_names#Color_name_charts
@@ -343,6 +344,7 @@ Light Green,#90ee90,https://en.wikipedia.org/wiki/X11_color_names#Color_names
 Light Orange,#fed8b1,https://en.wikipedia.org/wiki/Shades_of_orange#Light_orange
 Light Periwinkle,#c5cbe1,https://en.wikipedia.org/wiki/Periwinkle_(color)#Light_periwinkle
 Light Pink,#ffb6c1,https://en.wikipedia.org/wiki/Shades_of_pink#Light_pink
+Light Purple,#d8bfd8,https://en.wikipedia.org/wiki/Shades_of_purple#Light_purple_(web)
 Light Salmon,#ffa07a,https://en.wikipedia.org/wiki/Salmon_(color)#Light_salmon
 Light Sea Green,#20b2aa,https://en.wikipedia.org/wiki/Shades_of_cyan#Light_sea_green
 Light Sky Blue,#87cefa,https://en.wikipedia.org/wiki/Sky_blue#Light_sky_blue
@@ -494,7 +496,7 @@ Pacific Blue,#1ca9c9,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors
 Pakistan Green,#006600,https://en.wikipedia.org/wiki/Shades_of_green#Pakistan_green
 Palatinate Purple,#682860,https://en.wikipedia.org/wiki/Palatinate_(colour)
 Pale Dogwood,#ed7a9b,https://en.wikipedia.org/wiki/Shades_of_pink#Pale_Dogwood
-Pale Aqua,#bed3e5,https://en.wikipedia.org/wiki/Aqua_(color)#Pale_aqua
+Pale Aqua,#bed3e5,https://en.wikipedia.org/w/index.php?title=Pale_Aqua(color)&action=edit&redlink=1
 Pale Cerulean,#9bc4e2,https://en.wikipedia.org/wiki/Cerulean#Pale_cerulean
 Pale Pink,#fadadd,https://en.wikipedia.org/wiki/Shades_of_pink#Pale_pink
 Pale Purple,#fae6fa,https://en.wikipedia.org/wiki/Shades_of_purple#Pale_purple
@@ -558,7 +560,6 @@ Purple Plum,#9c51b6,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#
 Purple Mountain Majesty,#9678b6,https://en.wikipedia.org/wiki/Lavender_(color)#Lavender_purple_(purple_mountain_majesty)
 Purple Navy,#4e5180,https://en.wikipedia.org/wiki/Navy_blue#Purple_navy
 Purple Pizzazz,#fe4eda,https://en.wikipedia.org/wiki/Shades_of_magenta#Purple_pizzazz
-Purpureus,#9a4eae,https://en.wikipedia.org/wiki/Shades_of_purple#Purpureus
 Queen Blue,#436b95,https://en.wikipedia.org/wiki/Royal_blue#Queen_blue
 Queen Pink,#e8ccd7,https://en.wikipedia.org/wiki/Shades_of_pink#Queen_pink
 Quick Silver,#a6a6a6,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Silver_Swirls
@@ -577,6 +578,7 @@ Razzmic Berry,#8d4e85,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_color
 Rebecca Purple,#663399,https://en.wikipedia.org/wiki/Eric_A._Meyer
 Red,#ff0000,https://en.wikipedia.org/wiki/Red
 Red Salsa,#fd3a4a,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Heads_'n_Tails
+Red Ochre,#913831,https://en.wikipedia.org/wiki/Red_ochre
 Red-Orange,#ff5349,https://en.wikipedia.org/wiki/Red-orange
 Red-Purple,#e40078,https://en.wikipedia.org/wiki/Red-violet#Red-purple
 Red-Violet,#c71585,https://en.wikipedia.org/wiki/Red-violet
@@ -687,7 +689,6 @@ Star Command Blue,#007bb8,https://en.wikipedia.org/wiki/Cadet_grey#Star_command_
 Steel Blue,#4682b4,https://en.wikipedia.org/wiki/Steel_blue
 Steel Pink,#cc33cc,https://en.wikipedia.org/wiki/Shades_of_pink#Steel_pink
 Stil De Grain Yellow,#fada5e,https://en.wikipedia.org/wiki/Stil_de_grain_yellow
-Stizza,#900910,https://en.wikipedia.org/w/index.php?title=Stizza&action=edit&redlink=1
 Straw,#e4d96f,https://en.wikipedia.org/wiki/Straw_(colour)
 Strawberry,#fa5053,https://en.wikipedia.org/wiki/Strawberry
 Strawberry Blonde,#ff9361,https://en.wikipedia.org/wiki/Strawberry_blonde_(hair_color)
@@ -774,7 +775,6 @@ Vivid Violet,#9f00ff,https://en.wikipedia.org/wiki/Shades_of_violet#Vivid_violet
 Volt,#ceff00,https://en.wikipedia.org/wiki/Lime_(color)#Volt
 Warm Black,#004242,https://en.wikipedia.org/wiki/Rich_black
 Weezy Blue,#189bcc,https://en.wikipedia.org/wiki/Weezer_(Blue_Album)
-Weezy Red,#ea213a,https://en.wikipedia.org/wiki/Weezer_(Red_Album)
 Wheat,#f5deb3,https://en.wikipedia.org/wiki/Wheat_(color)
 White,#ffffff,https://en.wikipedia.org/wiki/White
 Wild Strawberry,#ff43a4,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Standard_colors

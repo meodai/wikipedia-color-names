@@ -870,6 +870,10 @@
     "link": "https://en.wikipedia.org/wiki/Orchid_(color)#Dark_orchid"
   },
   {
+    "name": "Dark Purple",
+    "hex": "#301934"
+  },
+  {
     "name": "Dark Red",
     "hex": "#8b0000",
     "link": "https://en.wikipedia.org/wiki/Maroon_(color)#Dark_red"
@@ -1720,6 +1724,11 @@
     "link": "https://en.wikipedia.org/wiki/Shades_of_pink#Light_pink"
   },
   {
+    "name": "Light Purple",
+    "hex": "#d8bfd8",
+    "link": "https://en.wikipedia.org/wiki/Shades_of_purple#Light_purple_(web)"
+  },
+  {
     "name": "Light Salmon",
     "hex": "#ffa07a",
     "link": "https://en.wikipedia.org/wiki/Salmon_(color)#Light_salmon"
@@ -2477,7 +2486,7 @@
   {
     "name": "Pale Aqua",
     "hex": "#bed3e5",
-    "link": "https://en.wikipedia.org/wiki/Aqua_(color)#Pale_aqua"
+    "link": "https://en.wikipedia.org/w/index.php?title=Pale_Aqua(color)&action=edit&redlink=1"
   },
   {
     "name": "Pale Cerulean",
@@ -2795,11 +2804,6 @@
     "link": "https://en.wikipedia.org/wiki/Shades_of_magenta#Purple_pizzazz"
   },
   {
-    "name": "Purpureus",
-    "hex": "#9a4eae",
-    "link": "https://en.wikipedia.org/wiki/Shades_of_purple#Purpureus"
-  },
-  {
     "name": "Queen Blue",
     "hex": "#436b95",
     "link": "https://en.wikipedia.org/wiki/Royal_blue#Queen_blue"
@@ -2888,6 +2892,11 @@
     "name": "Red Salsa",
     "hex": "#fd3a4a",
     "link": "https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Heads_'n_Tails"
+  },
+  {
+    "name": "Red Ochre",
+    "hex": "#913831",
+    "link": "https://en.wikipedia.org/wiki/Red_ochre"
   },
   {
     "name": "Red-Orange",
@@ -3285,6 +3294,11 @@
     "link": "https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Extreme_Twistables_colors"
   },
   {
+    "name": "Skin Color",
+    "hex": "#ffdead",
+    "link": "https://en.wikipedia.org/wiki/Skin_color"
+  },
+  {
     "name": "Skobeloff",
     "hex": "#007474",
     "link": "https://en.wikipedia.org/wiki/Spring_green#Skobeloff"
@@ -3438,11 +3452,6 @@
     "name": "Stil De Grain Yellow",
     "hex": "#fada5e",
     "link": "https://en.wikipedia.org/wiki/Stil_de_grain_yellow"
-  },
-  {
-    "name": "Stizza",
-    "hex": "#900910",
-    "link": "https://en.wikipedia.org/w/index.php?title=Stizza&action=edit&redlink=1"
   },
   {
     "name": "Straw",
@@ -3873,11 +3882,6 @@
     "name": "Weezy Blue",
     "hex": "#189bcc",
     "link": "https://en.wikipedia.org/wiki/Weezer_(Blue_Album)"
-  },
-  {
-    "name": "Weezy Red",
-    "hex": "#ea213a",
-    "link": "https://en.wikipedia.org/wiki/Weezer_(Red_Album)"
   },
   {
     "name": "Wheat",
