@@ -2329,7 +2329,7 @@
     "link": "https://en.wikipedia.org/wiki/Shades_of_red#OU_crimson"
   },
   {
-    "name": "Ochre",
+    "name": "Ocher",
     "hex": "#cc7722",
     "link": "https://en.wikipedia.org/wiki/Ochre"
   },
@@ -2634,6 +2634,11 @@
     "link": "https://en.wikipedia.org/wiki/Shades_of_orange#Persimmon"
   },
   {
+    "name": "Petunia",
+    "hex": "#470659",
+    "link": "https://en.wikipedia.org/wiki/Petunia_(color)"
+  },
+  {
     "name": "Pewter Blue",
     "hex": "#8ba8b7",
     "link": "https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Silver_Swirls"
@@ -2747,6 +2752,11 @@
     "name": "Princeton Orange",
     "hex": "#f58025",
     "link": "https://en.wikipedia.org/wiki/Shades_of_orange#Princeton_orange"
+  },
+  {
+    "name": "Process Cyan",
+    "hex": "#00b9f2",
+    "link": "https://en.wikipedia.org/w/index.php?title=Process_Cyan&action=edit&redlink=1"
   },
   {
     "name": "Prune",
@@ -2894,7 +2904,7 @@
     "link": "https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Heads_'n_Tails"
   },
   {
-    "name": "Red Ochre",
+    "name": "Red Ocher",
     "hex": "#913831",
     "link": "https://en.wikipedia.org/wiki/Red_ochre"
   },
@@ -3794,6 +3804,11 @@
     "link": "https://en.wikipedia.org/wiki/Vanilla_(color)#Vanilla_ice"
   },
   {
+    "name": "Vantg Blue",
+    "hex": "#5271ff",
+    "link": "https://en.wikipedia.org/wiki/Shades_of_blue#Vantg_blue"
+  },
+  {
     "name": "Vegas Gold",
     "hex": "#c5b358",
     "link": "https://en.wikipedia.org/wiki/Gold_(color)#Vegas_gold"
@@ -3994,14 +4009,29 @@
     "link": "https://en.wikipedia.org/wiki/Shades_of_chartreuse#Yellow-green"
   },
   {
-    "name": "Zaffre",
+    "name": "Zaffer",
     "hex": "#0014a8",
     "link": "https://en.wikipedia.org/wiki/Zaffre"
+  },
+  {
+    "name": "Zarqa",
+    "hex": "#ff4500",
+    "link": "https://en.wikipedia.org/wiki/Shades_of_red#Zarqa"
+  },
+  {
+    "name": "Zinc White",
+    "hex": "#fdf8ff",
+    "link": "https://en.wikipedia.org/wiki/Zinc_white"
   },
   {
     "name": "Zinnwaldite Brown",
     "hex": "#2c1608",
     "link": "https://en.wikipedia.org/wiki/Zinnwaldite"
+  },
+  {
+    "name": "Zinzolin",
+    "hex": "#6c0277",
+    "link": "https://en.wikipedia.org/wiki/Zinzolin"
   },
   {
     "name": "Zomp",
