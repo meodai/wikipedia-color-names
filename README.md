@@ -19,6 +19,6 @@ from wikipedia and sanitizes it.
 - [Wikipedia: List of Colors G-M](https://en.wikipedia.org/wiki/List_of_colors:_G%E2%80%93M)
 - [Wikipedia: List of Colors N-Z](https://en.wikipedia.org/wiki/List_of_colors:_N%E2%80%93Z)
 
-## List of Color Names 🔖 (**808**)
+## List of Color Names 🔖 (**813**)
 
 ![Wikipedia Color Names](colors.svg "List of wikipedia colors")

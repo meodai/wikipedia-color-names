@@ -870,10 +870,6 @@
     "link": "https://en.wikipedia.org/wiki/Orchid_(color)#Dark_orchid"
   },
   {
-    "name": "Dark Purple",
-    "hex": "#301934"
-  },
-  {
     "name": "Dark Red",
     "hex": "#8b0000",
     "link": "https://en.wikipedia.org/wiki/Maroon_(color)#Dark_red"
@@ -1044,6 +1040,11 @@
     "link": "https://en.wikipedia.org/wiki/Eggshell_(color)"
   },
   {
+    "name": "Electric Violet",
+    "hex": "#8f00ff",
+    "link": "https://en.wikipedia.org/wiki/Shades_of_violet#Color_wheel_violet"
+  },
+  {
     "name": "Electric Lime",
     "hex": "#ccff00",
     "link": "https://en.wikipedia.org/wiki/Lime_(color)#Electric_lime"
@@ -1052,11 +1053,6 @@
     "name": "Electric Purple",
     "hex": "#bf00ff",
     "link": "https://en.wikipedia.org/wiki/Shades_of_purple#Electric_purple:_2000s"
-  },
-  {
-    "name": "Electric Violet",
-    "hex": "#8f00ff",
-    "link": "https://en.wikipedia.org/wiki/Shades_of_violet#Electric_violet"
   },
   {
     "name": "Emerald",
@@ -1904,6 +1900,11 @@
     "link": "https://en.wikipedia.org/wiki/Shades_of_purple#Mardi_Gras"
   },
   {
+    "name": "Marian Blue",
+    "hex": "#00488b",
+    "link": "https://en.wikipedia.org/wiki/Marian_blue"
+  },
+  {
     "name": "Marigold",
     "hex": "#eaa221",
     "link": "https://en.wikipedia.org/wiki/Marigold_(color)"
@@ -2410,7 +2411,7 @@
   },
   {
     "name": "Orange",
-    "hex": "#ff7f00",
+    "hex": "#ff8000",
     "link": "https://en.wikipedia.org/wiki/Orange_(colour)"
   },
   {
@@ -2970,7 +2971,7 @@
   },
   {
     "name": "Rose",
-    "hex": "#ff007f",
+    "hex": "#ff0080",
     "link": "https://en.wikipedia.org/wiki/Rose_(color)"
   },
   {
@@ -3435,7 +3436,7 @@
   },
   {
     "name": "Spring Green",
-    "hex": "#00ff7f",
+    "hex": "#00ff80",
     "link": "https://en.wikipedia.org/wiki/Spring_green_(color)"
   },
   {
@@ -3835,7 +3836,7 @@
   },
   {
     "name": "Violet",
-    "hex": "#8f00ff",
+    "hex": "#8000ff",
     "link": "https://en.wikipedia.org/wiki/Violet_(color)"
   },
   {
@@ -3929,6 +3930,11 @@
     "link": "https://en.wikipedia.org/wiki/Carmine_(color)#Wild_watermelon"
   },
   {
+    "name": "Willpower Orange",
+    "hex": "#fd5800",
+    "link": "https://en.wikipedia.org/wiki/Shades_of_orange"
+  },
+  {
     "name": "Windsor Tan",
     "hex": "#a75502",
     "link": "https://en.wikipedia.org/wiki/Tan_(color)#Windsor_tan"
@@ -3937,6 +3943,11 @@
     "name": "Wine",
     "hex": "#722f37",
     "link": "https://en.wikipedia.org/wiki/Wine_(color)"
+  },
+  {
+    "name": "Wine Red",
+    "hex": "#b11226",
+    "link": "https://en.wikipedia.org/wiki/Wine_(color)#Wine_red"
   },
   {
     "name": "Wine Dregs",
@@ -3999,6 +4010,11 @@
     "link": "https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors"
   },
   {
+    "name": "Yellow Rose",
+    "hex": "#fff000",
+    "link": "https://en.wikipedia.org/wiki/Shades_of_yellow"
+  },
+  {
     "name": "Yellow Sunshine",
     "hex": "#fff700",
     "link": "https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Heads_'n_Tails"
@@ -4019,6 +4035,11 @@
     "link": "https://en.wikipedia.org/wiki/Shades_of_red#Zarqa"
   },
   {
+    "name": "Zebra White",
+    "hex": "#f5f5f5",
+    "link": "https://en.wikipedia.org/wiki/White"
+  },
+  {
     "name": "Zinc White",
     "hex": "#fdf8ff",
     "link": "https://en.wikipedia.org/wiki/Zinc_white"
@@ -4037,5 +4058,10 @@
     "name": "Zomp",
     "hex": "#39a78e",
     "link": "https://en.wikipedia.org/wiki/Spring_green#Zomp"
+  },
+  {
+    "name": "Citation Needed",
+    "hex": "#301934",
+    "link": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed"
   }
 ]

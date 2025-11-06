@@ -173,7 +173,6 @@ Dark Magenta,#8b008b,https://en.wikipedia.org/wiki/Shades_of_magenta#Dark_magent
 Dark Olive Green,#556b2f,https://en.wikipedia.org/wiki/Olive_(color)#Dark_olive_green
 Dark Orange,#ff8c00,https://en.wikipedia.org/wiki/Shades_of_orange#Dark_orange_(web_color)
 Dark Orchid,#9932cc,https://en.wikipedia.org/wiki/Orchid_(color)#Dark_orchid
-Dark Purple,#301934,undefined
 Dark Red,#8b0000,https://en.wikipedia.org/wiki/Maroon_(color)#Dark_red
 Dark Salmon,#e9967a,https://en.wikipedia.org/wiki/Salmon_(color)#Dark_salmon
 Dark Sea Green,#8fbc8f,https://en.wikipedia.org/wiki/X11_color_names#Color_name_charts
@@ -208,9 +207,9 @@ Ecru,#c2b280,https://en.wikipedia.org/wiki/Ecru
 Eerie Black,#1b1b1b,https://en.wikipedia.org/wiki/Shades_of_black#Eerie_black
 Eggplant,#614051,https://en.wikipedia.org/wiki/Eggplant_(color)
 Eggshell,#f0ead6,https://en.wikipedia.org/wiki/Eggshell_(color)
+Electric Violet,#8f00ff,https://en.wikipedia.org/wiki/Shades_of_violet#Color_wheel_violet
 Electric Lime,#ccff00,https://en.wikipedia.org/wiki/Lime_(color)#Electric_lime
 Electric Purple,#bf00ff,https://en.wikipedia.org/wiki/Shades_of_purple#Electric_purple:_2000s
-Electric Violet,#8f00ff,https://en.wikipedia.org/wiki/Shades_of_violet#Electric_violet
 Emerald,#50c878,https://en.wikipedia.org/wiki/Shades_of_green#Emerald
 Eminence,#6c3082,https://en.wikipedia.org/wiki/Shades_of_purple#Eminence
 English Lavender,#b48395,https://en.wikipedia.org/wiki/Lavender_(color)#English_lavender
@@ -380,6 +379,7 @@ Mango,#fdbe02,https://en.wikipedia.org/wiki/Shades_of_yellow#Mango
 Mango Tango,#ff8243,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Standard_colors
 Mantis,#74c365,https://en.wikipedia.org/wiki/Shades_of_green#Mantis
 Mardi Gras,#880085,https://en.wikipedia.org/wiki/Shades_of_purple#Mardi_Gras
+Marian Blue,#00488b,https://en.wikipedia.org/wiki/Marian_blue
 Marigold,#eaa221,https://en.wikipedia.org/wiki/Marigold_(color)
 Maroon,#c32148,https://en.wikipedia.org/wiki/Maroon#Maroon_(Crayola)
 Mauve,#e0b0ff,https://en.wikipedia.org/wiki/Mauve
@@ -481,7 +481,7 @@ Olivine,#9ab973,https://en.wikipedia.org/wiki/Olive_(color)#Olivine
 Onyx,#353839,https://en.wikipedia.org/wiki/Shades_of_black_(colors)#Onyx
 Opal,#a8c3bc,https://en.wikipedia.org/wiki/Shades_of_gray#Opal
 Opera Mauve,#b784a7,https://en.wikipedia.org/wiki/Mauve#Opera_mauve
-Orange,#ff7f00,https://en.wikipedia.org/wiki/Orange_(colour)
+Orange,#ff8000,https://en.wikipedia.org/wiki/Orange_(colour)
 Orange Peel,#ff9f00,https://en.wikipedia.org/wiki/Orange_peel_(color)
 Orange Soda,#fa5b3d,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Heads_'n_Tails
 Orange-Red,#ff681f,https://en.wikipedia.org/wiki/Vermilion#Orange-red
@@ -593,7 +593,7 @@ Robin Egg Blue,#00cccc,https://en.wikipedia.org/wiki/Robin_egg_blue
 Rocket Metallic,#8a7f80,https://en.wikipedia.org/wiki/Shades_of_gray#Rocket_metallic
 Rojo Spanish Red,#a91101,https://en.wikipedia.org/wiki/Shades_of_red#Spanish_red
 Roman Silver,#838996,https://en.wikipedia.org/wiki/Silver_(color)#Roman_silver
-Rose,#ff007f,https://en.wikipedia.org/wiki/Rose_(color)
+Rose,#ff0080,https://en.wikipedia.org/wiki/Rose_(color)
 Rose Dust,#9e5e6f,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Silver_Swirls
 Rose Pompadour,#ed7a9b,https://en.wikipedia.org/wiki/Shades_of_pink#Rose_Pompadour
 Rose Bonbon,#f9429e,https://en.wikipedia.org/wiki/Rose_(color)#Rose_bonbon
@@ -686,7 +686,7 @@ Spanish Violet,#4c2882,https://en.wikipedia.org/wiki/Shades_of_violet#Spanish_vi
 Spanish Viridian,#007f5c,https://en.wikipedia.org/wiki/Viridian#Spanish_viridian
 Spring Frost,#87ff2a,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Extreme_Twistables_colors
 Spring Bud,#a7fc00,https://en.wikipedia.org/wiki/Spring_bud
-Spring Green,#00ff7f,https://en.wikipedia.org/wiki/Spring_green_(color)
+Spring Green,#00ff80,https://en.wikipedia.org/wiki/Spring_green_(color)
 St. Patrick's Blue,#23297a,https://en.wikipedia.org/wiki/St._Patrick%27s_blue
 Star Command Blue,#007bb8,https://en.wikipedia.org/wiki/Cadet_grey#Star_command_blue
 Steel Blue,#4682b4,https://en.wikipedia.org/wiki/Steel_blue
@@ -766,7 +766,7 @@ Venetian Red,#c80815,https://en.wikipedia.org/wiki/Venetian_red
 Verdigris,#43b3ae,https://en.wikipedia.org/wiki/Verdigris
 Vermilion,#e34234,https://en.wikipedia.org/wiki/Vermilion
 Veronica,#a020f0,https://en.wikipedia.org/wiki/Shades_of_purple#Purple_(X11_color)_(veronica)
-Violet,#8f00ff,https://en.wikipedia.org/wiki/Violet_(color)
+Violet,#8000ff,https://en.wikipedia.org/wiki/Violet_(color)
 Violet-Blue,#324ab2,https://en.wikipedia.org/wiki/Violet-blue
 Violet-Red,#f75394,https://en.wikipedia.org/wiki/Red-violet#Violet-red
 Violet-red,#f0599c,https://en.wikipedia.org/wiki/Red-violet#Violet-red_(PerBang)
@@ -785,8 +785,10 @@ Wild Strawberry,#ff43a4,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_col
 Wild Blue Yonder,#a2add0,https://en.wikipedia.org/wiki/Air_Force_blue#Wild_blue_yonder
 Wild Orchid,#d470a2,https://en.wikipedia.org/wiki/Orchid_(color)#Wild_orchid
 Wild Watermelon,#fc6c85,https://en.wikipedia.org/wiki/Carmine_(color)#Wild_watermelon
+Willpower Orange,#fd5800,https://en.wikipedia.org/wiki/Shades_of_orange
 Windsor Tan,#a75502,https://en.wikipedia.org/wiki/Tan_(color)#Windsor_tan
 Wine,#722f37,https://en.wikipedia.org/wiki/Wine_(color)
+Wine Red,#b11226,https://en.wikipedia.org/wiki/Wine_(color)#Wine_red
 Wine Dregs,#673147,https://en.wikipedia.org/wiki/Wine_(color)#Wine_dregs
 Winter Sky,#ff007c,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Extreme_Twistables
 Wintergreen Dream,#56887d,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Silver_Swirls
@@ -799,11 +801,14 @@ YInMn Blue,#2e5090,https://en.wikipedia.org/wiki/YInMn_Blue
 Yale Blue,#00356b,https://en.wikipedia.org/wiki/Yale_Blue
 Yellow,#ffff00,https://en.wikipedia.org/wiki/Yellow
 Yellow Orange,#ffae42,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors
+Yellow Rose,#fff000,https://en.wikipedia.org/wiki/Shades_of_yellow
 Yellow Sunshine,#fff700,https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Heads_'n_Tails
 Yellow-Green,#9acd32,https://en.wikipedia.org/wiki/Shades_of_chartreuse#Yellow-green
 Zaffer,#0014a8,https://en.wikipedia.org/wiki/Zaffre
 Zarqa,#ff4500,https://en.wikipedia.org/wiki/Shades_of_red#Zarqa
+Zebra White,#f5f5f5,https://en.wikipedia.org/wiki/White
 Zinc White,#fdf8ff,https://en.wikipedia.org/wiki/Zinc_white
 Zinnwaldite Brown,#2c1608,https://en.wikipedia.org/wiki/Zinnwaldite
 Zinzolin,#6c0277,https://en.wikipedia.org/wiki/Zinzolin
 Zomp,#39a78e,https://en.wikipedia.org/wiki/Spring_green#Zomp
+Citation Needed,#301934,https://en.wikipedia.org/wiki/Wikipedia:Citation_needed
